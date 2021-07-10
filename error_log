@@ -1,0 +1,9 @@
+[10-Jul-2021 07:02:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ucp2pkw/public_html/muhammadabdullahazzam_20190140018/+koneksi.php on line 8
+[10-Jul-2021 07:02:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ucp2pkw/public_html/muhammadabdullahazzam_20190140018/index.php on line 105
+[10-Jul-2021 07:02:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ucp2pkw/public_html/muhammadabdullahazzam_20190140018/index.php on line 111
+[10-Jul-2021 11:01:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ucp2pkw_MuhammadAbdullahAzzam'@'localhost' (using password: YES) in /home/ucp2pkw/public_html/muhammadabdullahazzam_20190140018/+koneksi.php on line 8
+[10-Jul-2021 11:01:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ucp2pkw/public_html/muhammadabdullahazzam_20190140018/index.php on line 105
+[10-Jul-2021 11:01:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ucp2pkw/public_html/muhammadabdullahazzam_20190140018/index.php on line 111
+[10-Jul-2021 11:03:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'ucp2pkw_MuhammadAbdullahAzzam'@'localhost' (using password: YES) in /home/ucp2pkw/public_html/muhammadabdullahazzam_20190140018/+koneksi.php on line 8
+[10-Jul-2021 11:03:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ucp2pkw/public_html/muhammadabdullahazzam_20190140018/index.php on line 105
+[10-Jul-2021 11:03:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ucp2pkw/public_html/muhammadabdullahazzam_20190140018/index.php on line 111
